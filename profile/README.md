@@ -1,43 +1,43 @@
 # Hi there 👋, and welcome to the __CEA TRUST Platform organization__ on Github
 
-# This organization consists of several **public git repositories**
+This organization consists of several **public git repositories**
 
 # **1. TRUST code**
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
 
-##  TRUST is a thermalhydraulic software package for CFD simulations.
+TRUST is a thermalhydraulic software package for CFD simulations.
 
-## It was originally designed for incompressible and Low Mach Number flows, but an increasing effort is made towards simulating real compressible multiphasic flows.
+It was originally designed for incompressible and Low Mach Number flows, but an increasing effort is made towards simulating real compressible multiphasic flows.
 
-## This software is OpenSource (BSD license).
+This software is OpenSource (BSD license).
 
-## The public TRUST git repository is available at:
+The public TRUST git repository is available at:
 
-## https://github.com/cea-trust-platform/trust-code
+https://github.com/cea-trust-platform/trust-code
 
 
 # **2. TrioCFD code**
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/tcfd.png">
 
-## TrioCFD is the Computational Fluid Dynamics (CFD) code based on the TRUST platform.
+TrioCFD is the Computational Fluid Dynamics (CFD) code based on the TRUST platform.
 
-## The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
+The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
 
-## This software is OpenSource (BSD license).
+This software is OpenSource (BSD license).
 
-## The public TrioCFD git repository is available at:
+The public TrioCFD git repository is available at:
 
-## https://github.com/cea-trust-platform/TrioCFD-code
+https://github.com/cea-trust-platform/TrioCFD-code
 
 
 # **3. ICoCO interface**
 
-## ICoCo stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
+ICoCo stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
 
-## The public ICoCo git repository is available at:
+The public ICoCo git repository is available at:
 
-## https://github.com/cea-trust-platform/icoco-coupling
+https://github.com/cea-trust-platform/icoco-coupling
 
 # **4. Codes R&D**

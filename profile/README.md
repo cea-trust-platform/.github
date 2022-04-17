@@ -16,15 +16,15 @@ The public TRUST git repository is available at: https://github.com/cea-trust-pl
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/tcfd.png">
 
-TrioCFD is the Computational Fluid Dynamics (CFD) code based on the TRUST platform. The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
+**TrioCFD** is the Computational Fluid Dynamics (CFD) code based on the TRUST platform. The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
 
 This software is OpenSource (BSD license).
 
 The public TrioCFD git repository is available at: https://github.com/cea-trust-platform/TrioCFD-code
 
-# **3. ICoCO interface**
+# **3. ICoCo interface**
 
-ICoCo stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
+**ICoCo** stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
 
 The public ICoCo git repository is available at: https://github.com/cea-trust-platform/icoco-coupling
 

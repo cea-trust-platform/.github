@@ -1,4 +1,6 @@
- <font size="4"> Hi there 👋, and welcome to the __CEA TRUST Platform organization__ on Github
+# Hi there 👋, and welcome to the __CEA TRUST Platform organization__ on Github
+
+<font size="5"> 
 
 This organization consists of several **public git repositories**
 

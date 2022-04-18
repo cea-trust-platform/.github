@@ -10,7 +10,7 @@
 
 This software is OpenSource (BSD license).
 
-The public TRUST git repository is available at: **https://github.com/cea-trust-platform/trust-code**
+The public TRUST git repository is available at **https://github.com/cea-trust-platform/trust-code**
  
 </font>
 
@@ -27,7 +27,7 @@ The public TRUST git repository is available at: **https://github.com/cea-trust-
 
 This software is OpenSource (BSD license).
 
-The public TrioCFD git repository is available at: https://github.com/cea-trust-platform/TrioCFD-code
+The public TrioCFD git repository is available at **https://github.com/cea-trust-platform/TrioCFD-code**
 
 </font>
 
@@ -41,7 +41,7 @@ The public TrioCFD git repository is available at: https://github.com/cea-trust-
   
 **ICoCo** stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
 
-The public ICoCo git repository is available at: https://github.com/cea-trust-platform/icoco-coupling
+The public ICoCo git repository is available at **https://github.com/cea-trust-platform/icoco-coupling**
 
 </font>
 

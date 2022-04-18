@@ -4,7 +4,9 @@
 
 ## **1. TRUST code**
 
+<p align="right">
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
+ </p>
 
 <font size="8"> 
   

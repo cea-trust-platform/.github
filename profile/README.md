@@ -1,4 +1,4 @@
-# Hi there 👋 and welcome to the __CEA TRUST Platform organization__ on Github
+# Hi there 👋 and welcome to the __CEA TRUST Platform's organization__ on Github
 
 <font size="8"> This organization consists of several **public git repositories** </font>
 

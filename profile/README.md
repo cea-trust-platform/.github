@@ -2,7 +2,7 @@
 
 <font size="8"> This organization consists of several **public git repositories** </font>
 
-## | **1. TRUST code** | ![TRUST](https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png) |
+## **1. TRUST code**
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
 

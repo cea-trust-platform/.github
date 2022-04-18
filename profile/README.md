@@ -55,8 +55,14 @@ This public repository contains some jupyter python tutorials illustrating vario
 
 </font>
 
-## **4. Codes R&D**
+## **5. Codes R&D**
 
 <font size="8">
+  
+  - **Stokes_NCFEM** : Order 1 and order 2 nonconforming finite elements for Stokes in 2D, available at **https://github.com/cea-trust-platform/Stokes_NCFEM**
+  
+  - **FluidDyn** avalable at **https://github.com/cea-trust-platform/FluidDyn**
+  
+  
   
 </font>

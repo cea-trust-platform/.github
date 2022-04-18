@@ -4,10 +4,6 @@
 
 ## **1. TRUST code**
 
-<p align="right">
-<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
- </p>
-
 <font size="8"> 
   
 **TRUST** is a thermal-hydraulic software package for CFD simulations. It was originally designed for incompressible and Low Mach Number flows, but an increasing effort is made towards simulating real compressible multiphasic flows.
@@ -15,12 +11,15 @@
 This software is OpenSource (BSD license).
 
 The public TRUST git repository is available at: https://github.com/cea-trust-platform/trust-code
-  
+ 
 </font>
 
-## **2. TrioCFD code**
+<p align="right">
+<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
+</p>
 
-<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/tcfd.png">
+
+## **2. TrioCFD code**
 
 <font size="8">
 
@@ -32,6 +31,10 @@ The public TrioCFD git repository is available at: https://github.com/cea-trust-
 
 </font>
 
+<p align="right">
+<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/tcfd.png">
+</p>
+ 
 ## **3. ICoCo interface**
 
 <font size="8">

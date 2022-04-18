@@ -1,4 +1,4 @@
-# Hi there 👋, and welcome to the __CEA TRUST Platform organization__ on Github
+# Hi there 👋 and welcome to the __CEA TRUST Platform organization__ on Github
 
 <font size="8"> This organization consists of several **public git repositories** </font>
 
@@ -42,6 +42,16 @@ The public TrioCFD git repository is available at **https://github.com/cea-trust
 **ICoCo** stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
 
 The public ICoCo git repository is available at **https://github.com/cea-trust-platform/icoco-coupling**
+
+</font>
+
+## **4. MEDCoupling tutorials**
+
+<font size="8">
+  
+**MEDCoupling** is a powerful library that can be used to manipulate fields/data within a numerical simulation (see **https://docs.salome-platform.org/latest/dev/MEDCoupling/developer/index.html**)
+  
+This public repository contains some jupyter python tutorials illustrating various useful applications of MEDCoupling and is available at **https://github.com/cea-trust-platform/MEDCoupling_tutos**  
 
 </font>
 

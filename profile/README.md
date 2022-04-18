@@ -10,7 +10,7 @@
 
 This software is OpenSource (BSD license).
 
-The public TRUST git repository is available at: https://github.com/cea-trust-platform/trust-code
+The public TRUST git repository is available at: **https://github.com/cea-trust-platform/trust-code**
  
 </font>
 

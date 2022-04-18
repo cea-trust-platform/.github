@@ -16,7 +16,7 @@ The public TRUST git repository is available at: https://github.com/cea-trust-pl
   
 </font>
 
-## **2. TrioCFD code**
+## **2. TrioCFD code**
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/tcfd.png">
 
@@ -30,7 +30,7 @@ The public TrioCFD git repository is available at: https://github.com/cea-trust-
 
 </font>
 
-## **3. ICoCo interface**
+## **3. ICoCo interface**
 
 <font size="6">
   
@@ -40,7 +40,7 @@ The public ICoCo git repository is available at: https://github.com/cea-trust-pl
 
 </font>
 
-## **4. Codes R&D**
+## **4. Codes R&D**
 
 <font size="6">
   

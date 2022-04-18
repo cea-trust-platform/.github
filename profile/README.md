@@ -61,14 +61,14 @@ This public repository contains some jupyter python tutorials illustrating vario
   
   - **Stokes_NCFEM**
   
-  Matlab code devoted for order 1 and 2 nonconforming finite elements for Stokes in 2D.
+    Matlab code devoted for order 1 and 2 nonconforming finite elements for Stokes in 2D.
   
-  The public git repository is available at **https://github.com/cea-trust-platform/Stokes_NCFEM**
+    The public git repository is available at **https://github.com/cea-trust-platform/Stokes_NCFEM**
   
   - **FluidDyn** 
   
-  Python 1D code for multiphase flow and interface tracking.
+    Python 1D code for multiphase flow and interface tracking.
   
-  The public git repository is available at **https://github.com/cea-trust-platform/FluidDyn**
+    The public git repository is available at **https://github.com/cea-trust-platform/FluidDyn**
     
 </font>

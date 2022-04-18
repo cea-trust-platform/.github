@@ -1,12 +1,12 @@
 # Hi there 👋, and welcome to the __CEA TRUST Platform organization__ on Github
 
-<font size="6"> This organization consists of several **public git repositories** </font>
+<font size="8"> This organization consists of several **public git repositories** </font>
 
 ## **1. TRUST code**
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
 
-<font size="6"> 
+<font size="8"> 
   
 **TRUST** is a thermal-hydraulic software package for CFD simulations. It was originally designed for incompressible and Low Mach Number flows, but an increasing effort is made towards simulating real compressible multiphasic flows.
 
@@ -20,7 +20,7 @@ The public TRUST git repository is available at: https://github.com/cea-trust-pl
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/tcfd.png">
 
-<font size="6">
+<font size="8">
 
 **TrioCFD** is the Computational Fluid Dynamics (CFD) code based on the TRUST platform. The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
 
@@ -32,7 +32,7 @@ The public TrioCFD git repository is available at: https://github.com/cea-trust-
 
 ## **3. ICoCo interface**
 
-<font size="6">
+<font size="8">
   
 **ICoCo** stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
 
@@ -42,6 +42,6 @@ The public ICoCo git repository is available at: https://github.com/cea-trust-pl
 
 ## **4. Codes R&D**
 
-<font size="6">
+<font size="8">
   
 </font>

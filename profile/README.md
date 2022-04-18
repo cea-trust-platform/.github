@@ -1,8 +1,8 @@
-# Hi there 👋, and welcome to the __CEA TRUST Platform organization__ on Github
+ <font size="4"> Hi there 👋, and welcome to the __CEA TRUST Platform organization__ on Github
 
 This organization consists of several **public git repositories**
 
-# **1. TRUST code**
+**1. TRUST code**
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
 
@@ -12,7 +12,7 @@ This software is OpenSource (BSD license).
 
 The public TRUST git repository is available at: https://github.com/cea-trust-platform/trust-code
 
-# **2. TrioCFD code**
+**2. TrioCFD code**
 
 <img src="https://github.com/cea-trust-platform/.github/blob/main/profile/tcfd.png">
 
@@ -22,10 +22,12 @@ This software is OpenSource (BSD license).
 
 The public TrioCFD git repository is available at: https://github.com/cea-trust-platform/TrioCFD-code
 
-# **3. ICoCo interface**
+**3. ICoCo interface**
 
 **ICoCo** stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
 
 The public ICoCo git repository is available at: https://github.com/cea-trust-platform/icoco-coupling
 
-# **4. Codes R&D**
+**4. Codes R&D**
+
+</font>

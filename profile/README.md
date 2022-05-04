@@ -11,6 +11,8 @@
 This software is OpenSource (BSD license).
 
 The public TRUST git repository is available at **https://github.com/cea-trust-platform/trust-code**
+  
+The public repository of the TRUST Doxygen documentation is available at **https://cea-trust-platform.github.io/TRUST_Doxygen.github.io/html/index.html**
  
 </font>
 

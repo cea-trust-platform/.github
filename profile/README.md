@@ -5,8 +5,9 @@
 ## **1. TRUST code**
 
 <font size="8"> 
-  
-**TRUST** is a thermal-hydraulic software package for CFD simulations. It was originally designed for incompressible and Low Mach Number flows, but an increasing effort is made towards simulating real compressible multiphasic flows.
+
+**TRUST** is a thermalhydraulic software package for CFD simulations. It was originally designed for incompressible single-phase and Low Mach Number flows,
+but an increasing effort is made towards simulating real compressible multi-phase flows.
 
 This software is OpenSource (BSD license).
 

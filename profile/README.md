@@ -9,7 +9,9 @@
 **TRUST** is a thermalhydraulic software package for CFD simulations. It was originally designed for incompressible single-phase and Low Mach Number flows,
 but an increasing effort is made towards simulating real compressible multi-phase flows.
 
-This software is OpenSource (BSD license). Version 1.9.1 released in december 2022.
+This software is OpenSource (BSD license). 
+
+Version 1.9.1 released in december 2022.
 
 The public TRUST git repository is available at **https://github.com/cea-trust-platform/trust-code**
   
@@ -28,7 +30,9 @@ The public repository of the TRUST Doxygen documentation is available at **https
 
 **TrioCFD** is the Computational Fluid Dynamics (CFD) code based on the TRUST platform. The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
 
-This software is OpenSource (BSD license). Version 1.9.1 released in december 2022.
+This software is OpenSource (BSD license). 
+
+Version 1.9.1 released in december 2022.
 
 The public TrioCFD git repository is available at **https://github.com/cea-trust-platform/TrioCFD-code**
 

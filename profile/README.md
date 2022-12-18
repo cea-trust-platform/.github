@@ -11,7 +11,7 @@ but an increasing effort is made towards simulating real compressible multi-phas
 
 This software is OpenSource (BSD license). 
 
-Current version : v1.9.1 (released in december 2022).
+Current version : **v1.9.1** (released in december 2022).
 
 The public TRUST git repository is available at **https://github.com/cea-trust-platform/trust-code**
   
@@ -32,7 +32,7 @@ The public repository of the TRUST Doxygen documentation is available at **https
 
 This software is OpenSource (BSD license). 
 
-Current version : v1.9.1 (released in december 2022).
+Current version : **v1.9.1** (released in december 2022).
 
 The public TrioCFD git repository is available at **https://github.com/cea-trust-platform/TrioCFD-code**
 

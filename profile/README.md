@@ -22,7 +22,7 @@ The public repository of the TRUST Doxygen documentation is available at **https
 </font>
 
 <p align="right">
-<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/trust.png" style="width:8cm;">
+<img src="https://github.com/cea-trust-platform/trust-code/blob/master/bin/HTML/logo_trust.gif?raw=true" style="width:9cm;">
 </p>
 
 

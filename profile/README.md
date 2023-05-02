@@ -6,19 +6,24 @@
 
 <font size="8"> 
 
-**TRUST** is a thermalhydraulic software package for CFD simulations. It was originally designed for incompressible single-phase and Low Mach Number flows,
-but an increasing effort is made towards simulating real compressible multi-phase flows.
+**TRUST** is a thermalhydraulic software package for CFD simulations. This software was originally designed for conduction, incompressible single-phase, and Low Mach Number (LMN) flows with a robust Weakly-Compressible (WC) multi-species solver. However, a huge effort has been conducted recently, and now TRUST is able to simulate real compressible multi-phase flows. 
 
-This software is OpenSource (BSD license). 
+TRUST is also being progressively ported to support GPU acceleration (NVidia/AMD).
 
-Current version : **v1.9.1** (released in december 2022).
+The software is OpenSource (**[BSD license](https://github.com/cea-trust-platform/trust-code/blob/master/License.txt)**). 
 
-The public TRUST website is available at **https://cea-trust-platform.github.io**
+Current TRUST version : **v1.9.1** (released in december 2022).
 
-The public TRUST git repository is available at **https://github.com/cea-trust-platform/trust-code**
+Here are some useful links:
+
+  - **[TRUST Website](https://cea-trust-platform.github.io)**.
   
-The public repository of the TRUST Doxygen documentation is available at **https://cea-trust-platform.github.io/TRUST_Doxygen.github.io/html/index.html**
- 
+  - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**.
+  
+  - **[TRUST Generic Guide](https://cea-trust-platform.github.io/trust-documentation.github.io)**.
+  
+  - **[TRUST Doxygen Documentation](https://cea-trust-platform.github.io/TRUST_Doxygen.github.io)**.
+
 </font>
 
 <p align="right">
@@ -34,7 +39,7 @@ The public repository of the TRUST Doxygen documentation is available at **https
 
 This software is OpenSource (BSD license). 
 
-Current version : **v1.9.1** (released in december 2022).
+Current TrioCFD version : **v1.9.1** (released in december 2022).
 
 The public TrioCFD git repository is available at **https://github.com/cea-trust-platform/TrioCFD-code**
 

@@ -16,13 +16,13 @@ Current TRUST version : **v1.9.1** (released in december 2022).
 
 Here are some useful links:
 
-  - **[TRUST Website](https://cea-trust-platform.github.io)**.
+  - **[TRUST Website](https://cea-trust-platform.github.io)**
   
-  - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**.
+  - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**
   
-  - **[TRUST Generic Guide](https://cea-trust-platform.github.io/trust-documentation.github.io)**.
+  - **[TRUST Generic Guide](https://cea-trust-platform.github.io/trust-documentation.github.io)**
   
-  - **[TRUST Doxygen Documentation](https://cea-trust-platform.github.io/TRUST_Doxygen.github.io)**.
+  - **[TRUST Doxygen Documentation](https://cea-trust-platform.github.io/TRUST_Doxygen.github.io)**
 
 </font>
 
@@ -40,8 +40,12 @@ Here are some useful links:
 This software is OpenSource (BSD license). 
 
 Current TrioCFD version : **v1.9.1** (released in december 2022).
+  
+Here are some useful links:
 
-The public TrioCFD git repository is available at **https://github.com/cea-trust-platform/TrioCFD-code**
+  - **[TrioCFD Website](https://triocfd.cea.fr)**
+  
+  - **[TrioCFD Sources](https://github.com/cea-trust-platform/TrioCFD-code)**
 
 </font>
 
@@ -55,7 +59,7 @@ The public TrioCFD git repository is available at **https://github.com/cea-trust
   
 **ICoCo** stands for Interface for Code Coupling. This is a norm that a code may choose to implement to facilitate its coupling with other ICoCo-compliant codes.
 
-The public ICoCo git repository is available at **https://github.com/cea-trust-platform/icoco-coupling**
+The public ICoCo git repository is available at **[this link](https://github.com/cea-trust-platform/icoco-coupling)**.
 
 </font>
 
@@ -63,9 +67,9 @@ The public ICoCo git repository is available at **https://github.com/cea-trust-p
 
 <font size="8">
   
-**MEDCoupling** is a powerful library that can be used to manipulate fields/data within a numerical simulation (see **https://docs.salome-platform.org/latest/dev/MEDCoupling/developer/index.html**)
+**MEDCoupling** is a powerful library that can be used to manipulate fields/data within a numerical simulation. Click **[here](https://docs.salome-platform.org/latest/dev/MEDCoupling/developer/index.html)** to visit the documentation.
   
-This public repository contains some jupyter python tutorials illustrating various useful applications of MEDCoupling and is available at **https://github.com/cea-trust-platform/MEDCoupling_tutos**  
+This public repository contains some jupyter python tutorials illustrating various useful applications of MEDCoupling and is available on  **[this link](https://github.com/cea-trust-platform/MEDCoupling_tutos)**.
 
 </font>
 

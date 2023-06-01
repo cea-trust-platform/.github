@@ -63,7 +63,17 @@ The public ICoCo git repository is available at **[this link](https://github.com
 
 </font>
 
-## **4. MEDCoupling tutorials**
+## **4. ICoCo SWIG interface for TRUST BALTIK's**
+
+<font size="8">
+
+The public icoco-swig-baltik git repository is available at **[this link](https://github.com/cea-trust-platform/icoco-swig-baltik)**.
+
+This project defines an ICoCo SWIG wrapper that can be used for any BALTIK project based on the TRUST platform.
+
+</font>
+
+## **5. MEDCoupling tutorials**
 
 <font size="8">
   
@@ -73,7 +83,7 @@ This public repository contains some jupyter python tutorials illustrating vario
 
 </font>
 
-## **5. Codes R&D**
+## **6. Codes R&D**
 
 <font size="8">
   

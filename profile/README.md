@@ -63,7 +63,7 @@ The public ICoCo git repository is available at **[this link](https://github.com
 
 </font>
 
-## **4. ICoCo SWIG interface for TRUST BALTIK's**
+## **4. ICoCo SWIG wrapper for TRUST BALTIKs**
 
 <font size="8">
 

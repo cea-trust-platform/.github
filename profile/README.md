@@ -39,7 +39,7 @@ Here are some useful links:
 
 This software is OpenSource (BSD license). 
 
-Current TrioCFD version : **v1.9.1** (released in december 2022).
+Current TrioCFD version : **v1.9.2** (released in june 2023).
   
 Here are some useful links:
 

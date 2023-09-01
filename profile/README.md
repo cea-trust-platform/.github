@@ -16,9 +16,9 @@ Current TRUST version : **v1.9.2** (released in May 2023).
 
 Here are some useful links:
 
-  - **[TRUST Website](https://cea-trust-platform.github.io)**: the official website
+  - **[TRUST Website](https://cea-trust-platform.github.io)**: The official website
   
-  - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**: you'll find there how to download/install code and get access to documentation (tutorials, ...)
+  - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**: You'll find there how to download/install code and get access to documentation (tutorials, ...)
   
   - **[TRUST Generic Guide](https://cea-trust-platform.github.io/trust-documentation.github.io)**: Quick documentation on how to run computations and post-process results
   

@@ -12,17 +12,17 @@ TRUST is also being progressively ported to support GPU acceleration (NVidia/AMD
 
 The software is OpenSource (**[BSD license](https://github.com/cea-trust-platform/trust-code/blob/master/License.txt)**). 
 
-Current TRUST version : **v1.9.2** (released in mai 2023).
+Current TRUST version : **v1.9.2** (released in May 2023).
 
 Here are some useful links:
 
-  - **[TRUST Website](https://cea-trust-platform.github.io)**
+  - **[TRUST Website](https://cea-trust-platform.github.io)**: the official website
   
-  - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**
+  - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**: you'll find there how to download/install code and get access to documentation (tutorials, ...)
   
-  - **[TRUST Generic Guide](https://cea-trust-platform.github.io/trust-documentation.github.io)**
+  - **[TRUST Generic Guide](https://cea-trust-platform.github.io/trust-documentation.github.io)**: Quick documentation on how to run computations and post-process results
   
-  - **[TRUST Doxygen Documentation](https://cea-trust-platform.github.io/TRUST_Doxygen.github.io)**
+  - **[TRUST Doxygen Documentation](https://cea-trust-platform.github.io/TRUST_Doxygen.github.io)**: HTML documentation of source code (for developers)
 
 </font>
 
@@ -35,11 +35,11 @@ Here are some useful links:
 
 <font size="8">
 
-**TrioCFD** is the Computational Fluid Dynamics (CFD) code based on the TRUST platform. The code contains Front_Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
+**TrioCFD** is the Computational Fluid Dynamics (CFD) code based on the TRUST platform. The code contains Front-Tracking, Radiation, ALE for fluid/structure interactions and Turbulence LES & RANS models.
 
 This software is OpenSource (BSD license). 
 
-Current TrioCFD version : **v1.9.2** (released in june 2023).
+Current TrioCFD version : **v1.9.2** (released in June 2023).
   
 Here are some useful links:
 
@@ -83,7 +83,7 @@ This public repository contains some jupyter python tutorials illustrating vario
 
 </font>
 
-## **6. Codes R&D**
+## **6. R&D Codes**
 
 <font size="8">
   

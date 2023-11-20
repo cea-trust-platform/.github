@@ -20,7 +20,7 @@ Here are some useful links:
   
   - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**: You'll find there how to download/install code and get access to documentation (tutorials, ...)
   
-  - **[TRUST Generic Guide](https://cea-trust-platform.github.io/trust-documentation.github.io)**: Quick documentation on how to run computations and post-process results
+  - **[TRUST Documentation](https://trust-documentation.readthedocs.io/en/latest/)**: Generic Guide + Keyword Reference Manual 
   
   - **[TRUST Doxygen Documentation](https://cea-trust-platform.github.io/TRUST_Doxygen.github.io)**: HTML documentation of source code (for developers)
 

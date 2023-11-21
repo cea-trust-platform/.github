@@ -20,7 +20,7 @@ Here are some useful links:
   
   - **[TRUST Sources](https://github.com/cea-trust-platform/trust-code)**: You'll find there how to download/install code and get access to documentation (tutorials, ...)
   
-  - **[TRUST Documentation](https://trust-documentation.readthedocs.io/en/latest/)**: Generic Guide + Keyword Reference Manual 
+  - **[TRUST Documentation](https://cea-trust-platform.readthedocs.io/en/latest/)**: TRUST generic guide (what you should read to start using TRUST), Keyword Reference Manual (what you can use in a TRUST dataset) and trustutils documentation (for Jupyter notebooks and stats postprocessing package)
   
   - **[TRUST Doxygen Documentation](https://cea-trust-platform.github.io/TRUST_Doxygen.github.io)**: HTML documentation of source code (for developers)
 

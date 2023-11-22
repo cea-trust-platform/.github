@@ -22,7 +22,7 @@ Here are some useful links:
   
   - **[TRUST Documentation](https://cea-trust-platform.readthedocs.io/en/latest/)**: You'll find there the following
 
-    - TRUST Generic Guide (what you should read to start using TRUST)
+    - TRUST Generic Guide (what you should read to start using the code)
     - TRUST Keyword Reference Manual (what you can use in a TRUST dataset)
     - TRUST Tools Documentation (for Jupyter notebooks and stats postprocessing package)
     - TRUST C++ API Documentation

@@ -91,7 +91,7 @@ This software is OpenSource (BSD license).
 </font>
 
 <p align="right">
-<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/EOS.png?raw=true">
+<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/EOS.png?raw=true" style="width:9cm;">
 </p>
 
 ## **6. MEDCoupling tutorials**

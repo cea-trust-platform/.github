@@ -78,7 +78,23 @@ This project defines an ICoCo SWIG wrapper that can be used for any BALTIK proje
 
 </font>
 
-## **5. MEDCoupling tutorials**
+## **5. EOS Code**
+
+<font size="8">
+
+**EOS** stands for Equation Of State ! 
+
+This is a public open-source C++ interface useful to call thermo-physical properties libraries (like REFPROP, etc...)
+
+This software is OpenSource (BSD license).
+
+</font>
+
+<p align="right">
+<img src="https://github.com/cea-trust-platform/.github/blob/main/profile/EOS.png?raw=true">
+</p>
+
+## **6. MEDCoupling tutorials**
 
 <font size="8">
   
@@ -88,7 +104,7 @@ This public repository contains some jupyter python tutorials illustrating vario
 
 </font>
 
-## **6. R&D Codes**
+## **7. R&D Codes**
 
 <font size="8">
   

@@ -50,6 +50,8 @@ Here are some useful links:
   
   - **[TrioCFD Sources](https://github.com/cea-trust-platform/TrioCFD-code)**
 
+  - **[TrioCFD Documentation](https://triocfd-documentation.readthedocs.io/en/latest/)**
+
 </font>
 
 <p align="right">

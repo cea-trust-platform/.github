@@ -86,7 +86,7 @@ This project defines an ICoCo SWIG wrapper that can be used for any BALTIK proje
 
 This is a public open-source C++ interface useful to call thermo-physical properties libraries (like REFPROP, etc...)
 
-This software is OpenSource (BSD license).
+This software is OpenSource (BSD license) and available **[here](https://github.com/cea-trust-platform/EOS_code)**.
 
 </font>
 

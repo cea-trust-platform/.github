@@ -42,7 +42,7 @@ Here are some useful links:
 
 This software is OpenSource (BSD license). 
 
-Current TrioCFD version : **[v1.9.3](https://github.com/cea-trust-platform/TrioCFD-code/releases/tag/v1.9.3)** (released in December 2023).
+Current TrioCFD version : **[v1.9.4](https://github.com/cea-trust-platform/TrioCFD-code/releases/tag/v1.9.4)** (released in June 2024).
   
 Here are some useful links:
 

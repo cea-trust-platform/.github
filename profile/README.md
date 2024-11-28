@@ -26,6 +26,8 @@ Here are some useful links:
     - TRUST Keyword Reference Manual (what you can use in a TRUST dataset)
     - TRUST Tools Documentation (for Jupyter notebooks and stats postprocessing package)
     - TRUST C++ API Documentation
+    - TRUST Numerical Methods Documentation
+    - TRUST Coding Guidelines
 
 </font>
 

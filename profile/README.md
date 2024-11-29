@@ -27,7 +27,6 @@ Here are some useful links:
     - TRUST Tools Documentation (for Jupyter notebooks and stats postprocessing package)
     - TRUST C++ API Documentation
     - TRUST Numerical Methods Documentation
-    - TRUST Coding Guidelines
 
 </font>
 

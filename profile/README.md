@@ -12,7 +12,7 @@ TRUST is also being progressively ported to support GPU acceleration (NVidia/AMD
 
 The software is OpenSource (**[BSD license](https://github.com/cea-trust-platform/trust-code/blob/master/License.txt)**). 
 
-Current TRUST version : **[v1.9.5](https://github.com/cea-trust-platform/trust-code/releases/tag/v1.9.5)** (released in November 2024).
+Current TRUST version : **[v1.9.6](https://github.com/cea-trust-platform/trust-code/releases/tag/v1.9.6)** (released in May 2025).
 
 Here are some useful links:
 
